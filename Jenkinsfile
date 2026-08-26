@@ -3,8 +3,8 @@ pipeline {
 
     environment {
         CI = 'false'
-        DOCKER_IMAGE = 'my-react-app'
-        DOCKER_CONTAINER = 'my-react-container'
+        DOCKER_IMAGE = 'kd-bridal-makeover'
+        DOCKER_CONTAINER = 'kd-bridal-makeover-container'
     }
 
     stages {
