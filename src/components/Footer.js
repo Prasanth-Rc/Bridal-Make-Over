@@ -74,8 +74,10 @@ const Footer = () => {
                 href="mailto:prasanth98780@gmail.com"
                 className="text-white fs-5"
               >
+                <i className="bi bi-envelope"></i>
+              </a>
                   <a
-                href="mailto:prasanthrc99@gmail.com"
+                href="mailto:prasaanthrc99@gmail.com"
                 className="text-white fs-5"
               >
                 <i className="bi bi-envelope"></i>
