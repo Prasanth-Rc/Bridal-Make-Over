@@ -6,7 +6,7 @@ pipeline {
         DOCKER_IMAGE = 'kd-bridal-makeover'
         DOCKER_CONTAINER = 'kd-bridal-makeover-container'
     }
-
+  
     stages {
 
         stage('Checkout') {
