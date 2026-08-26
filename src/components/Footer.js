@@ -76,12 +76,6 @@ const Footer = () => {
               >
                 <i className="bi bi-envelope"></i>
               </a>
-                  <a
-                href="mailto:prasaanthrc99@gmail.com"
-                className="text-white fs-5"
-              >
-                <i className="bi bi-envelope"></i>
-              </a>
             </div>
           </div>
         </div>
